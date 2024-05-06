@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Ahmed Ali",
+        "email": "ahmed.ali1@student.qu.edu.qa",
+        "major": "Civil Engineering",
+        "deptId": 1
+    },
+    {
+        "id": 2,
+        "name": "Mohammed Hassan",
+        "email": "mohammed.hassan1@student.qu.edu.qa",
+        "major": "Civil Engineering",
+        "deptId": 1
+    },
+    {
+        "id": 3,
+        "name": "Fatima Youssef",
+        "email": "fatima.youssef1@student.qu.edu.qa",
+        "major": "Civil Engineering",
+        "deptId": 1
+    },
+    {
+        "id": 4,
+        "name": "Ali Omar",
+        "email": "ali.omar1@student.qu.edu.qa",
+        "major": "Civil Engineering",
+        "deptId": 1
+    },
+    {
+        "id": 5,
+        "name": "Aisha Nour",
+        "email": "aisha.nour1@student.qu.edu.qa",
+        "major": "Civil Engineering",
+        "deptId": 1
+    },
+    {
+        "id": 6,
+        "name": "Youssef Sana",
+        "email": "youssef.sana1@student.qu.edu.qa",
+        "major": "Civil Engineering",
+        "deptId": 1
+    },
+    {
+        "id": 7,
+        "name": "Noor Sara",
+        "email": "noor.sara1@student.qu.edu.qa",
+        "major": "Civil Engineering",
+        "deptId": 1
+    },
+    {
+        "id": 8,
+        "name": "Huda Amir",
+        "email": "huda.amir1@student.qu.edu.qa",
+        "major": "Civil Engineering",
+        "deptId": 1
+    },
+    {
+        "id": 9,
+        "name": "Abdullah Layla",
+        "email": "abdullah.layla1@student.qu.edu.qa",
+        "major": "Civil Engineering",
+        "deptId": 1
+    },
+    {
+        "id": 10,
+        "name": "Mariam Sara",
+        "email": "mariam.sara2@student.qu.edu.qa",
+        "major": "Civil Engineering",
+        "deptId": 1
+    },
+    {
+        "id": 11,
+        "name": "Omar Ali",
+        "email": "omar.ali2@student.qu.edu.qa",
+        "major": "Electrical Engineering",
+        "deptId": 2
+    },
+    {
+        "id": 12,
+        "name": "Nour Yassin",
+        "email": "nour.yassin2@student.qu.edu.qa",
+        "major": "Electrical Engineering",
+        "deptId": 2
+    },
+    {
+        "id": 13,
+        "name": "Sana Sara",
+        "email": "sana.sara2@student.qu.edu.qa",
+        "major": "Electrical Engineering",
+        "deptId": 2
+    },
+    {
+        "id": 14,
+        "name": "Hassan Amir",
+        "email": "hassan.amir2@student.qu.edu.qa",
+        "major": "Electrical Engineering",
+        "deptId": 2
+    },
+    {
+        "id": 15,
+        "name": "Fatemah Layla",
+        "email": "fatemah.layla2@student.qu.edu.qa",
+        "major": "Electrical Engineering",
+        "deptId": 2
+    },
+    {
+        "id": 16,
+        "name": "Yassin Ahmed",
+        "email": "yassin.ahmed2@student.qu.edu.qa",
+        "major": "Electrical Engineering",
+        "deptId": 2
+    },
+    {
+        "id": 17,
+        "name": "Sara Mohammed",
+        "email": "sara.mohammed2@student.qu.edu.qa",
+        "major": "Electrical Engineering",
+        "deptId": 2
+    },
+    {
+        "id": 18,
+        "name": "Amir Ali",
+        "email": "amir.ali2@student.qu.edu.qa",
+        "major": "Electrical Engineering",
+        "deptId": 2
+    },
+    {
+        "id": 19,
+        "name": "Layla Fatima",
+        "email": "layla.fatima2@student.qu.edu.qa",
+        "major": "Electrical Engineering",
+        "deptId": 2
+    },
+    {
+        "id": 20,
+        "name": "Omar Mohammed",
+        "email": "omar.mohammed3@student.qu.edu.qa",
+        "major": "Electrical Engineering",
+        "deptId": 2
+    }
+]

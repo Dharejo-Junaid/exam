@@ -1,0 +1,167 @@
+.headline {
+  text-align: center;
+  font-size: 2rem;
+  margin: 1rem;
+
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.departmentCard {
+  background-color: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(5px);
+  overflow: hidden;
+  transition: box-shadow 0.3s;
+  padding: 1rem;
+  margin: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.departmentCard:hover {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.cardHeader {
+  padding: 10px;
+  /* background-color: #007BFF; */
+  /* color: white; */
+  cursor: pointer;
+  position: relative;
+}
+
+.cardHeader h2 {
+  margin: 0;
+}
+
+.cardBody {
+  display: none;
+  padding: 10px;
+  line-height: 1.6;
+}
+
+.deleteBtn {
+
+  background-color: #d9534f;
+
+  color: white;
+  border: none;
+  border-radius: 5px;
+  /* Rounded corners for a smoother look */
+  cursor: pointer;
+  padding: 6px 12px;
+  font-size: 14px;
+  outline: none;
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.addBtn,
+.deleteBtn:hover,
+.addBtn,
+.deleteBtn:focus {
+  background-color: #c9302c;
+  /* Darker shade on hover/focus for interactive feedback */
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+  /* Soft shadow for a 'lifted' effect */
+  outline: none;
+}
+
+.addBtn,
+.deleteBtn:active {
+  background-color: #ac2925;
+  /* Even darker shade for the active state */
+  box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  /* Inner shadow to mimic a 'pressed' effect */
+}
+
+.addBtn {
+  background-color: green;
+  color: #fffcfc;
+  padding: 1rem;
+  margin-top: 4rem;
+}
+
+.viewLink {
+  color: #f2f4f5;
+  text-decoration: none;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.actionBtns {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.table {
+  width: 90%;
+  border-collapse: collapse;
+  margin: 0 auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+}
+
+.table th,
+.table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.table th {
+  background-color: #4CAF50;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.table tr:hover {
+  background-color: #f5f5f5;
+  transform: scale(1.02);
+  transition: transform 0.3s ease-in-out;
+}
+
+.table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.table tr:nth-child(odd) {
+  background-color: #fff;
+}
+
+.form {
+  width: 60%;
+  margin: auto;
+}
+
+.formGroup {
+  margin-bottom: 15px;
+}
+
+.input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.submitBtn {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.button:hover {
+  background-color: #45a049;
+}
